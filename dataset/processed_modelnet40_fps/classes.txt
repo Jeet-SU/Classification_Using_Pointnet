@@ -1,0 +1,6 @@
+0,bed
+1,car
+2,chair
+3,cup
+4,desk
+5,table
